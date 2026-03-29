@@ -1,5 +1,5 @@
 <picture>
-  <img src="./assets/profile-header.svg" alt="Cedric Oeldorf. Applied AI systems, local-first tools, and public notes." width="100%" />
+  <img src="./assets/profile-header-v2.svg" alt="Cedric Oeldorf. Applied AI systems, local-first tools, and public notes." width="100%" />
 </picture>
 
 I build applied AI systems, local-first tools, and public notes around how AI works in practice.
