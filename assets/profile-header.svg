@@ -1,0 +1,27 @@
+<svg width="1280" height="320" viewBox="0 0 1280 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Cedric Oeldorf profile header</title>
+  <desc id="desc">Editorial GitHub profile header for Cedric Oeldorf with a quiet layout and project focus areas.</desc>
+  <rect width="1280" height="320" rx="18" fill="#F7F1E7"/>
+  <rect x="1" y="1" width="1278" height="318" rx="17" stroke="#DDD3C4" stroke-width="2"/>
+  <line x1="72" y1="70" x2="360" y2="70" stroke="#6F5CE6" stroke-width="3"/>
+  <text x="72" y="104" fill="#867D6F" font-family="'Courier New', monospace" font-size="18" letter-spacing="2.8">APPLIED AI SYSTEMS</text>
+  <text x="72" y="172" fill="#274C3A" font-family="Georgia, 'Times New Roman', serif" font-size="56" font-weight="700">Cedric Oeldorf</text>
+  <text x="72" y="214" fill="#3F392F" font-family="Arial, Helvetica, sans-serif" font-size="24">Evaluation, workflow tooling, and production AI systems</text>
+  <text x="72" y="262" fill="#867D6F" font-family="'Courier New', monospace" font-size="18" letter-spacing="1.4">growth factors   /   local ai apps   /   coeld.io</text>
+
+  <rect x="790" y="58" width="420" height="56" rx="12" fill="#FBF8F1" stroke="#DDD3C4"/>
+  <rect x="790" y="132" width="420" height="56" rx="12" fill="#FBF8F1" stroke="#DDD3C4"/>
+  <rect x="790" y="206" width="420" height="56" rx="12" fill="#FBF8F1" stroke="#DDD3C4"/>
+
+  <rect x="812" y="78" width="8" height="16" rx="4" fill="#6F5CE6"/>
+  <rect x="812" y="152" width="8" height="16" rx="4" fill="#6F5CE6"/>
+  <rect x="812" y="226" width="8" height="16" rx="4" fill="#6F5CE6"/>
+
+  <text x="838" y="95" fill="#274C3A" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Production AI</text>
+  <text x="838" y="171" fill="#274C3A" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Local AI tools</text>
+  <text x="838" y="245" fill="#274C3A" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Writing and notes</text>
+
+  <text x="838" y="112" fill="#867D6F" font-family="'Courier New', monospace" font-size="16">deployment, governance, evaluation</text>
+  <text x="838" y="188" fill="#867D6F" font-family="'Courier New', monospace" font-size="16">work-os, workflow software, local systems</text>
+  <text x="838" y="262" fill="#867D6F" font-family="'Courier New', monospace" font-size="16">guides, essays, and small public tools</text>
+</svg>
