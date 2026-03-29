@@ -1,33 +1,29 @@
 <picture>
-  <img src="./assets/profile-header.svg" alt="Cedric Oeldorf. Applied AI systems, evaluation, and workflow tools." width="100%" />
+  <img src="./assets/profile-header.svg" alt="Cedric Oeldorf. Applied AI systems, local-first tools, and public notes." width="100%" />
 </picture>
 
-I work on applied AI systems, data infrastructure, and operational tooling.
+I build applied AI systems, local-first tools, and public notes around how AI works in practice.
 
-Most of my recent work is about getting AI into real workflows, with attention to evaluation, governance, and operating constraints. I currently work with portfolio companies on applied AI deployments, build local AI applications, and publish notes and tools at [coeld.io](https://coeld.io).
+I am currently Principal, Agentic AI at Bregal Unternehmerkapital, working through Growth Factors, the fund's internal go-to-market and value-creation team. The work is hands-on: building the data and AI foundations, finding high-ROI use cases, and turning AI from experimentation into measurable operational and EBITDA impact across the portfolio.
 
-[Website / Blog](https://coeld.io) · [LinkedIn](https://www.linkedin.com/in/cedricoeldorf) · [X / Twitter](https://x.com/cedrocino) · [Resume](./resume.md)
+[Website / blog](https://coeld.io) · [LinkedIn](https://www.linkedin.com/in/cedricoeldorf) · [X / Twitter](https://x.com/cedrocino) · [Background](./resume.md)
 
-## Current focus
+## Current
 
-- Deploying AI systems into production environments at Growth Factors
-- Building local AI applications and workflow tools
-- Writing public notes, blog posts, and tooling at [coeld.io](https://coeld.io)
+- Building `contextOS`, a local-first AI workspace. Think Obsidian meets VS Code with a private AI pane that can use tools and reason over files on your laptop.
+- Publishing notes, guides, and small tools at [coeld.io](https://coeld.io).
+- Working on AI deployment, evaluation, and data foundations across portfolio companies.
 
 ## Selected work
 
-| Project | Summary |
-| --- | --- |
-| [work-os](https://github.com/cedricoeldorf/work-os) | AI-first local work OS with Python core services, SQLite, a FastAPI backend, and a React dashboard. |
-| [coeld](https://github.com/cedricoeldorf/coeld) | Personal site and system index for writing, notes, and small AI tools. |
-| [ConditionalStyleGAN](https://github.com/cedricoeldorf/ConditionalStyleGAN) | MSc research project on controllable logo generation with StyleGAN. Presented at ICMLA 2019. |
-| [proba-v-super-resolution-challenge](https://github.com/cedricoeldorf/proba-v-super-resolution-challenge) | Satellite imagery super-resolution project built around CNN-based modelling and data preparation. |
+- `contextOS` - private and in progress. A local-first workspace for files, tools, and longer-form AI reasoning.
+- [LoGANv2 / ConditionalStyleGAN](https://github.com/cedricoeldorf/ConditionalStyleGAN) - published MSc research on controllable logo generation with GANs, presented at IEEE ICMLA 2019.
 
 ## Background
 
-- Operating Principal, Agentic AI, Growth Factors (Bregal Unternehmerkapital)
+- Principal, Agentic AI, Bregal Unternehmerkapital
 - Former Head of Operations Analytics, Bolt
-- Previous machine learning engineering work at Ericsson and DataProphet
+- Previous ML work at Ericsson and DataProphet
 
 ## Areas I care about
 
