@@ -21,7 +21,7 @@ I work on turning AI from experimentation into systems that hold up in real work
 ## Previously
 
 - Former Head of Operations Analytics, Bolt
-- ML work at Ericsson Smart Manufacturing
+- ML Engineer at Ericsson
 - Data science at DataProphet
 
 ## Interested in
